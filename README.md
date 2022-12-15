@@ -1,2 +1,2 @@
 # chip8-emulator
-chip8 emulator i made for fun
+chip8 emulator i made for fun using SDL2.
